@@ -1,0 +1,54 @@
+Title: 
+ ;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024*
+Voertuigdiefstallen; ; ; ; ; ; ; ; ; ; 
+Autodiefstal;1358;1172;1176;1168;969;677;828;958;908;178
+Motodiefstal;178;131;107;112;131;98;86;93;109;24
+Carjacking;64;63;62;45;54;38;65;52;55;9
+Homejacking;17;18;13;14;4;6;13;10;13;4
+Garagediefstal;172;171;218;246;150;71;96;105;125;28
+Bromfietsdiefstal;352;316;246;240;243;240;218;328;351;73
+Fietsdiefstal;811;873;838;975;830;846;1001;1155;888;188
+Inbraken; ; ; ; ; ; ; ; ; ; 
+Woninginbraak;8506;7245;6952;7990;6825;4735;4959;5220;5116;1414
+Inbraak in bedrijf of handelszaak;2111;1930;1561;1450;1298;943;847;934;1072;224
+Inbraak in openbare of overheidsinstelling;643;636;548;649;448;411;301;345;338;68
+Ramkraak;32;26;9;18;34;7;0;2;11;0
+Inbraak in gebouw (totaal);11244;9798;9050;10079;8559;6081;6098;6490;6516;1704
+Andere diefstallen; ; ; ; ; ; ; ; ; ; 
+Diefstal gewapenderhand;717;655;585;505;520;346;386;326;384;97
+Diefstal met geweld zonder wapen;2418;2286;1953;1978;2098;1314;1557;1630;1685;406
+Diefstal uit of aan voertuig;6864;7637;6782;7107;8269;4784;6169;6448;5816;1264
+Sacjacking uit auto;18;2;6;3;3;3;2;2;2;0
+Handtasroof;111;100;93;96;82;41;45;42;43;12
+Grijpdiefstal;1086;877;827;847;690;368;502;503;544;131
+Zakkenrollerij;2495;2561;2540;2650;3260;1881;2823;2861;3146;610
+Winkeldiefstal;2051;2150;2084;2296;2108;1487;1644;1645;1837;411
+Diefstal met list;655;537;535;583;408;372;487;593;628;142
+Metaaldiefstal;481;279;267;354;253;189;170;293;228;81
+Werfdiefstal;292;259;277;297;287;287;269;309;256;59
+Home-invasion;22;38;37;33;22;13;23;27;29;6
+Ladingdiefstal;48;39;125;75;165;134;54;45;55;15
+ICT-criminaliteit; ; ; ; ; ; ; ; ; ; 
+Betaalkaartfraude;788;686;819;837;1090;1080;1352;1759;1685;318
+Phishing;8;21;44;45;86;125;180;559;681;226
+Ransomware;0;3;28;12;15;8;14;7;31;12
+Shouldersurfing;25;30;82;75;104;60;32;47;84;10
+Skimming;18;19;20;9;10;12;25;44;15;3
+Intrafamiliaal geweld (IFG); ; ; ; ; ; ; ; ; ; 
+IFG: binnen het koppel (totaal);4822;4681;4872;5169;4800;4626;4935;5049;5158;1246
+IFG: tegen afstammelingen (totaal);447;468;529;547;544;538;571;491;567;138
+IFG: tegen andere leden (totaal);688;731;679;698;652;603;622;663;690;192
+IFG: algemeen totaal;5878;5797;5964;6313;5909;5649;5985;6089;6233;1534
+Andere; ; ; ; ; ; ; ; ; ; 
+Geweld tegen beroepen van algemeen belang;204;181;216;209;210;174;165;216;185;47
+Groepsverkrachting;30;24;29;23;26;11;30;22;12;1
+Graffiti;562;443;298;252;350;434;278;247;250;63
+Beschadiging van auto;4283;3889;3953;3883;3978;3245;3474;3385;3497;752
+Steekpartij;95;76;81;82;65;44;53;90;80;16
+Nepagenten;22;30;16;17;38;22;17;17;7;0
+Cyberbelaging;1053;980;1014;1103;1074;1040;1251;1156;1124;349
+Identiteitsfraude;793;763;833;620;660;726;733;838;864;253
+
+Filters: Province: Liège
+URL: https://www.politie.be/statistieken/nl/criminaliteit/criminele-figuren/tabel?nis=06_1
+BRON: Federale Politie - Directie van de politionele informatie en ICT-middelen - business Beleid en Beheer (BIPOL)
